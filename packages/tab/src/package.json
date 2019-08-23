@@ -1,0 +1,11 @@
+{
+  "name": "lxr-tab",
+  "version": "1.0.0",
+  "description": "tab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liuxiaorong <751236197@qq.com>",
+  "license": "ISC"
+}
